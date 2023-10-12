@@ -33,7 +33,7 @@ Ce fichier sera utilisé par l’application web pour récupérer les informatio
 
 ## Configuration de l'application
 
-Placez-vous dans le répertoire /var/www/html, créez le fichier **lab.php** et insérez-y le contenu du fichier du même nom que vous avez reçu par mail.
+Placez-vous dans le répertoire /var/www/html, créez le fichier **lab.php** et insérez-y le contenu du [fichier du même nom](assets/lab.php).
 
 ## Test de l'application
 
